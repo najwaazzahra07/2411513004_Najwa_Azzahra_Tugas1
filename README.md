@@ -1,2 +1,0 @@
-# 2411513004_Najwa_Azzahra_Tugas1
-Pemograman Parallel
